@@ -39,6 +39,8 @@ Além disso, o programa também é capaz de gerar tabuleiros iniciais consistent
 Este projeto implementa um sistema de classificação de registros armazenados em arquivos de texto. Cada registro contém três campos:
 identidade, nome, data
 O programa lê os registros do arquivo, armazena-os em uma estrutura de dados e permite classificá-los utilizando diferentes critérios de ordenação.
+Deve-se utilizar primeiro o gerador.py para criar os arquivos .txt para a utilização do programa principal
+Sendo o arquivo compara.py o modulo que defini as opções de comparação de dados para a ordenação
 # Principais conceitos utilizados
 # Algoritmos clássicos:
 - QuickSort(recursivo e não recursivo)

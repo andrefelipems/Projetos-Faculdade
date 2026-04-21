@@ -1,5 +1,5 @@
 # Projetos-Faculdade
-Alguns projetos que fiz durante minha graduação
+Alguns projetos que fiz durante minha graduação, divididos entre EPS(exercícios programa) desenvolvidos nas disciplinas de computação e Aprendizado Estatístico, que envolvem atividades desenvolvidas em conjunto com entidades de extensão como BeeData(IME USP) e LEARN(IME USP) como também projetos pessoais nesse campo. Esta área tem seus projetos organizados em uma pasta própria chamada Aprendizado-Estatistico
 
 # Programa 1 - EP 1 PosFixa - Interpretador de Expressões com Números Complexos
 Este projeto implementa um interpretador de expressões aritméticas envolvendo números complexos. O programa funciona de forma semelhante ao prompt do Python, lendo expressões digitadas pelo usuário e retornando o resultado calculado.

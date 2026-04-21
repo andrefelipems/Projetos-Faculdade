@@ -23,7 +23,7 @@ Além disso, o programa também é capaz de gerar tabuleiros iniciais consistent
 2. Resolve o Sudoku utilizando backtracking.
 3. Encontra todas as soluções possíveis para o tabuleiro gerado.
 4. Verifica se cada solução encontrada é válida
-5. Principais conceitos utilizados
+
 # Algoritmos:
 - Backtracking
 - Busca recursiva em espaço de estados
